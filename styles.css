@@ -1,17 +1,21 @@
 body {
   background-color: cyan;
   font-family: verdana;
-  color:darkblue;
+  color: darkblue;
 }
 h1 {
-  color:orange;
-  
+  color: orange;
 }
 h2 {
-  color:purple;
+  color: purple;
 }
-h3 {color:red;
+h3 {
+  color: red;
 }  
-h4 {color:#158be6} 
-  div{
-    text-align:center;} 
+h4 {
+  color: #158be6
+}
+div {
+  background-color: green;
+  text-align: center;
+} 
